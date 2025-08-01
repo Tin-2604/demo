@@ -12,9 +12,9 @@
 ## 🔄 Bước tiếp theo
 
 ### 1. Tạo GitHub Repository
-- [ ] Tạo tài khoản GitHub (nếu chưa có)
-- [ ] Tạo repository mới tên "demo"
-- [ ] Chạy script deploy.sh hoặc thực hiện thủ công:
+- [x] Tạo tài khoản GitHub (nếu chưa có)
+- [x] Tạo repository mới tên "demo"
+- [x] Chạy script deploy.sh hoặc thực hiện thủ công:
   ```bash
   git init
   git add .
